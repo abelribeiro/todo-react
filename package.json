@@ -2,7 +2,7 @@
   "name": "todo-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://abelribeiro.github.io/",
+  "homepage": "https://abelribeiro.github.io/todo-react/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
